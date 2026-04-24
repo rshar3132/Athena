@@ -43,7 +43,7 @@ npm run dev
 ```
  
 ## API Endpoints
- 
+``` 
 Method      Endpoint                    Description 
 
 GET         `/health`                   Health check
@@ -51,6 +51,8 @@ GET         `/documents`                List indexed documents
 POST        `/documents/upload`         Upload & index a PDF
 DELETE      `/documents/{name}`         Remove a document
 POST        `/chat`                     Ask a question
+
+```
 
 ### Chat Request
 ```json
