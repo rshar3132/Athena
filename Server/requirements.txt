@@ -21,3 +21,7 @@ python-dotenv
 sentence-transformers
 groq
 langchain-groq
+langchain-classic
+langchain-text-splitters
+langchain-community
+python-multipart
